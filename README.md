@@ -75,8 +75,5 @@ RegisterNumber:23007752
 # Output:
 ![Screenshot 2023-12-27 100335](https://github.com/RAGULRAAJAN/DE.EXP.01/assets/147473144/c1c41b6d-d22b-4dc9-a907-367fb3360b9f)
 
-
-RTL
-
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
